@@ -1,0 +1,19 @@
+{
+  "name": "nodetodo",
+  "version": "1.0.0",
+  "description": "A Node Todo App",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.8"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Ambika Kewat",
+  "license": "ISC"
+}
